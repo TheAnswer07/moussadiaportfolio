@@ -9,8 +9,10 @@
 * [User Story](#username)
 * [Credits](#credits)
 * [Contribution](#contribution)
-* [GitHub Profile Link](#github-profile)
-* [Portfolio Link](#portfolio-link)
+* [GitHub Profile Link](#github-profile-link)
+* [Repositories Links](#repositories-links)
+* [Portfolio Link (initial version)](#portfolio-link-initial-version)
+* [Current Portfolio Link](#current-portfolio-link)
 * [Screenshots:](#screenshots)
     1. [Screenshot 1](#Screenshot-1)
     2. [Screenshot 2](#Screenshot-2)
@@ -35,9 +37,15 @@ Big shout out to Scott Nelson from UCB Extension for helping me taylor my code f
 
 You can contribute to this project by accessing my GitHub page.
 
-### GitHub Link:
+### GitHub Profile Link:
 
-[GitHub Profile](https://github.com/TheAnswer07)
+[GitHub Profile Link](https://github.com/TheAnswer07)
+
+### Repositories Links:
+
+- Original portfolio repository with major commits: [Original portfolio's repository with major commits](https://github.com/TheAnswer07/portfoliomoussadia)
+
+- Latest repository for cloned portfolio: [Latest repository for cloned portfolio](https://github.com/TheAnswer07/moussadiaportfolio)
 
 ### Portfolio Link:
 
